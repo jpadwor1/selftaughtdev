@@ -1,1 +1,2 @@
-# selftaughtdev
+# selftaught-static
+ 
